@@ -20,7 +20,7 @@ function handleIndex(request, response) {
     author: '',
     color: '#3E338F',
     head: 'beluga',
-    tail: 'bolt'
+    tail: 'round-bum'
   }
   response.status(200).json(battlesnakeInfo)
 }
